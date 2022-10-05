@@ -1,7 +1,7 @@
 <h1 align="center">Supabase With Flutter</h1>
 
 <div align= "center">
-  <h4>Supabase CURD Operations</h4>
+  <h4>Supabase CRUD Operations</h4>
 </div>
 
 ## :point_down: Support me here!
