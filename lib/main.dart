@@ -10,7 +10,7 @@ Future<void> main() async {
       anonKey: Utils.supabaseKey,
       authCallbackUrlHostname: 'login-callback', // optional
       debug: true // optional
-      );
+  );
   runApp(const MyApp());
 }
 
